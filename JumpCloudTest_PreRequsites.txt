@@ -1,0 +1,23 @@
+Here are a few notes, assumptions and findings from my testing of JumpCloud_ QA Assignment 2021
+
+Questions for Product:
+
+Are null or blank passwords still encrypted? 
+
+Since we are encrypting password shouldn't we use https instead of http?
+
+Assumptions
+
+Null or blank passwords are not to be encrypted
+
+Outliers:
+
+I am not sure how to confirm SHA512 so as per my notes in my test plan I tested the best way I interpreted it
+
+The requirements for the get Stats call does not specify the conversion for Average Time, so although it is built into the automation suite as time > 5, it will always pass as in example 35656565 > 5.  The API request I am referring to is noted below
+
+$ curl http://127.0.0.1:8088/stats
+
+
+
+
