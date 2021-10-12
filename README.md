@@ -42,7 +42,7 @@ Follow the test plan title JumpCloud_TestPlan.xls and run the commands correposn
 Open Terminal
 robot <FileNmae>
 
-## Log examples
+## Logs
 
 ==============================================================================
 Jump TC POST Request                                                          
