@@ -44,7 +44,6 @@ robot <FileNmae>
 
 ## Log examples
 
-(venv) Kirondes-MacBook-Pro-2:TestCases kirondechery$ robot Jump_TC_POST_Request.robot
 ==============================================================================
 Jump TC POST Request                                                          
 ==============================================================================
@@ -52,7 +51,7 @@ Get stats number prior to post request Post 4                         .....{"Tot
 Get stats number prior to post request Post 4                         | PASS |
 -----------------------------------------------------------------------------
 
-#Report path from root (Folder Titled Reports are in the zip called testing)
+##Report path from root (Folder Titled Reports are in the zip called testing)
 
 TestCases/report.html
 Right click and choose open in browser
