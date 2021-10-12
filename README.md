@@ -6,8 +6,6 @@ Documentation Folder:
 Requirements are JumpCloud_ QA Assignment 2021.pdf
 Test results plus reports are in the folder titled Testing.zip
 
-
-
 # apiJumpCloud
 
 apiJumpCloud is a robotframework based solution for testing JumpCloud_ QA Assignment 2021.pdf as well as it corespnds to the Automated (Column C) test cases in the Test Plan titled JumpCloud_TestPlan.xls.  
