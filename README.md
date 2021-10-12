@@ -42,16 +42,9 @@ Follow the test plan title JumpCloud_TestPlan.xls and run the commands correposn
 Open Terminal
 robot <FileNmae>
 
-## Logs
-
-
-Jump TC POST Request                                                          
-==============================================================================
-Get stats number prior to post request Post 4                         .....{"TotalRequests":0,"AverageTime":0}
-Get stats number prior to post request Post 4                         | PASS |
------------------------------------------------------------------------------
-
-##Report path from root (Folder Titled Reports are in the zip called testing)
+## Reports 
+  
+path from root (Folder Titled Reports are in the zip called testing)
 
 TestCases/report.html
 Right click and choose open in browser
